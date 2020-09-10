@@ -9,3 +9,4 @@ plotly-geo
 psutil
 seaborn
 matplotlib
+yagmail
