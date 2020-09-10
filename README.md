@@ -1,4 +1,4 @@
-<h1>Terminale Spécialité</h1>
+<h1>SNT</h1>
 <blockquote style="border-left: 10px solid black">
   <b>Auteur : </b>Bro Frédéric</b>
 </blockquote>
